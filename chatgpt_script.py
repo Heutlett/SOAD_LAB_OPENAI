@@ -2,7 +2,7 @@ from openai import OpenAI
 
 client = OpenAI(
     # This is the default and can be omitted
-    api_key="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"
+    api_key="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"
 )
 
 print("*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*")
